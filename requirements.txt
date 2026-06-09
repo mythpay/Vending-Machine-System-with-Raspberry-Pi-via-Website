@@ -1,0 +1,8 @@
+flask_socketio
+sqlite3
+apscheduler
+datetime
+spidev
+gpiod
+pyserial
+queue
