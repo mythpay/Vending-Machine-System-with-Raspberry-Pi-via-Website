@@ -141,4 +141,7 @@ cd RaspberryToWeb
 pip install -r requirements.txt
 
 # Run
+
+```bash
 python app.py (you can see browser website on localhost:5000)
+```
